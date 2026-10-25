@@ -6,7 +6,7 @@
 
 *Breaking down threats, building better defenses, and learning how systems fail.*
 
-[![Website](https://img.shields.io/badge/Portfolio-christopherscott.io-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://christopherscott.io)
+[![Website](https://img.shields.io/badge/Portfolio-christopher--scott.net-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://christopher-scott.net)
 
 </div>
 
@@ -111,7 +111,7 @@ Exploit development        █████░░░░░  Long-term interest
 
 I'm always interested in thoughtful conversations about malware, security research, detection engineering, and building useful tools.
 
-🌐 **Website:** [christopherscott.io](https://christopherscott.io)  
+🌐 **Website:** [christopher-scott.net](https://christopher-scott.net)  
 
 ---
 
